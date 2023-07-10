@@ -42,7 +42,7 @@
             <p class="text-body-2 mt-4">
               <span>
                 Don't have an account?
-                <NuxtLink to="/signup" class="font-weight-bold text-primary">Sign Up</NuxtLink></span>
+                <NuxtLink to="/signup" class="font-weight-bold text-primary">Sign Up?!</NuxtLink></span>
             </p>
           </VCol>
         </VRow>
