@@ -2,6 +2,7 @@
 	<div>
 		<VApp>
 			<VMain>
+				<NavigationBar />
 				<slot />
 			</VMain>
 		</VApp>
