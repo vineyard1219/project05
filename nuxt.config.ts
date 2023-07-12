@@ -11,7 +11,8 @@ const url = "https://vuetify3nuxt3starter.behonbaker.com/";
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
   // import styles
-  css: ["@/assets/main.scss"],
+  css: ["@/assets/main.scss",
+        "@/assets/css/tailwind.css"],
   // enable takeover mode
   typescript: { shim: false },
   build: { transpile: ["vuetify"] },
